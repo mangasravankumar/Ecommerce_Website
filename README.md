@@ -1,4 +1,5 @@
 Stationery E-Commerce Web App:
+
 A simple web application for buying and managing stationery products (pens, sharpeners, etc.) built in PHP and MySQL.
 This project includes user and admin logins, product management, shopping cart, and checkout functionality.
 
